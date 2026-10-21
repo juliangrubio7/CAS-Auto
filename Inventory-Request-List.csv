@@ -1,5 +1,6 @@
 priority,stock,make,model_trim,year,powertrain,drivetrain,location,listed_price_usd,status,notes
 A,VOD-065,Toyota,Sequoia Capstone,2026,Hybrid 3.4L,4x4,not shown,,Inquire for price,
+A,TX097831,Toyota,Sequoia Capstone,2026,Hybrid 3.4L,4x4,Canada,92900,Priced,
 A,VOD-066,Toyota,Sequoia Limited,2026,Hybrid 3.4L,4x4,USA,,Inquire for price,
 A,VOD-068,Toyota,Sequoia Platinum,2026,Hybrid 3.4L,4x2,USA,,Inquire for price,Lower fit (4x2)
 A,VOD-045,Toyota,Sequoia Platinum,2026,Hybrid,4x4,Canada,,Inquire for price,
@@ -17,10 +18,13 @@ B,TT075430 / TT080776,Toyota,Tacoma TRD Pro / Trailhunter,2026,Hybrid 2.4L,4x4,C
 B,VOD-075,Toyota,Tacoma TRD Off-Road Premium,2026,Gasoline 2.4L,4x4,Canada,51900,Priced,
 B,VOD-079,Toyota,Tacoma TRD Off-Road Premium,2026,Hybrid 2.4L,4x4,Canada,,Inquire for price,
 B,VOD-076,Toyota,Tacoma TRD Pro,2026,Hybrid 2.4L,4x4,Canada,,Inquire for price,
+B,VOD-060,Toyota,4Runner SR5,2026,Gasoline,4x4,Canada,,Inquire for price,
+B,VOD-062,Toyota,4Runner Limited,2026,Gasoline 2.4L,4x4,USA,,Inquire for price,
+B,VOD-063,Toyota,4Runner TRD Off Road Premium,2026,Hybrid 2.4L,4x4,Canada,,Inquire for price,Manual transmission
+B,VOD-067,Toyota,4Runner TRD Off Road Premium,2026,Gasoline 2.4L,4x4,Canada,,Inquire for price,
 B,VOD-096,BYD,Sealion 6 Launch PRO,2026,PHEV,AWD,Other,,Volume pricing,Fleet order
 C,,Toyota,Coaster Tourist (bus),2026,Diesel 4.2L,RWD,Belgium,61900,Priced (from),Stock number not captured; bus tariff heading differs
 C,,Toyota,Hilux,2026-2027,to confirm,to confirm,Belgium / Other,,Not yet reviewed,
 C,,Toyota,Camry,2026,to confirm,FWD,Other,,Not yet reviewed,Fleet order
 C,,Toyota,Hiace,2026,Diesel (to confirm),to confirm,Belgium,,Not yet reviewed,Fleet order
 C,,Toyota,Sienna,2026,Hybrid (to confirm),to confirm,Other,,Not yet reviewed,
-C,,Toyota,4Runner,2026,to confirm,4x4,Other,,Not yet reviewed,
